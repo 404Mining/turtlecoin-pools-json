@@ -28,6 +28,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "E4pool.tech",
+      "url": "http://turtlecoin.e4pool.tech",
+      "api": "http://turtlecoin.e4pool.tech:8117",
+      "type": "forknote",
+      "miningAddress": "turtlecoin.e4pool.tech",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "FairCryptoCoins TurtleCoin Pool",
       "url": "https://turtlepool.faircryptocoins.xyz/",
       "api": "https://turtlepoolapi.faircryptocoins.xyz/",
